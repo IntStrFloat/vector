@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Dima2\Documents\GitHub\02-lab-01-vector-IntStrFloat -B C:\Users\Dima2\Documents\GitHub\02-lab-01-vector-IntStrFloat\cmake-build-debug
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: C:/.hunter
+-- [hunter] [ Hunter-ID: 95c47c9 | Toolchain-ID: 5e3cda4 | Config-ID: 7ebef37 ]
+-- [hunter] GTEST_ROOT: C:/.hunter/_Base/95c47c9/5e3cda4/7ebef37/Install (ver.: 1.11.0)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug

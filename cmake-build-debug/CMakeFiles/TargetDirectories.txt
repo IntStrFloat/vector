@@ -1,0 +1,12 @@
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/template.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/demo.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/cmake-build-debug/CMakeFiles/install/strip.dir

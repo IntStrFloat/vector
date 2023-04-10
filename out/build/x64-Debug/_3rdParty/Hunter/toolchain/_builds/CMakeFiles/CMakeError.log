@@ -1,0 +1,27 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/out/build/x64-Debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeScratch/TryCompile-nfx75m
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a25a1 && [1/2] Building C object CMakeFiles\cmTC_a25a1.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_a25a1.exe
+FAILED: cmTC_a25a1.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a25a1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a25a1.dir\CMakeCCompilerABI.c.obj  /out:cmTC_a25a1.exe /implib:cmTC_a25a1.lib /pdb:cmTC_a25a1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\Users\Dima2\Documents\GitHub\02-lab-01-vector-IntStrFloat\out\build\x64-Debug\_3rdParty\Hunter\toolchain\_builds\CMakeFiles\CMakeScratch\TryCompile-nfx75m && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Dima2/Documents/GitHub/SelfServer/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/out/build/x64-Debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeScratch/TryCompile-nfx75m/cmTC_a25a1.exe -installedDir C:/Users/Dima2/Documents/GitHub/SelfServer/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+LINK Pass 1: command "C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_a25a1.dir\CMakeCCompilerABI.c.obj /out:cmTC_a25a1.exe /implib:cmTC_a25a1.lib /pdb:cmTC_a25a1.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_a25a1.dir/intermediate.manifest CMakeFiles\cmTC_a25a1.dir/manifest.res" failed (exit code 1102) with the following output:
+LINK : fatal error LNK1102: недостаточно памяти
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/out/build/x64-Debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeScratch/TryCompile-d5ctaz
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_19fda && [1/2] Building C object CMakeFiles\cmTC_19fda.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_19fda.exe
+FAILED: cmTC_19fda.exe 
+cmd.exe /C "cd . && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_19fda.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_19fda.dir\testCCompiler.c.obj  /out:cmTC_19fda.exe /implib:cmTC_19fda.lib /pdb:cmTC_19fda.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cmd.exe /C "cd /D C:\Users\Dima2\Documents\GitHub\02-lab-01-vector-IntStrFloat\out\build\x64-Debug\_3rdParty\Hunter\toolchain\_builds\CMakeFiles\CMakeScratch\TryCompile-d5ctaz && C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/Users/Dima2/Documents/GitHub/SelfServer/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Users/Dima2/Documents/GitHub/02-lab-01-vector-IntStrFloat/out/build/x64-Debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeScratch/TryCompile-d5ctaz/cmTC_19fda.exe -installedDir C:/Users/Dima2/Documents/GitHub/SelfServer/vcpkg/installed/x64-windows/debug/bin -OutVariable out""
+FINAL LINK: command "C:\PROGRA~1\MICROS~2\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_19fda.dir\testCCompiler.c.obj /out:cmTC_19fda.exe /implib:cmTC_19fda.lib /pdb:cmTC_19fda.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_19fda.dir/intermediate.manifest CMakeFiles\cmTC_19fda.dir/manifest.res" failed (exit code 1171) with the following output:
+LINK : fatal error LNK1171: не удается загрузить mspdbcore.dll (код ошибки: 1455)
+ninja: build stopped: subcommand failed.
+
+
+
